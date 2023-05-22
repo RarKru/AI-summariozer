@@ -5,7 +5,6 @@ import Hero from './components/Hero';
 import './App.css';
 
 const App = () => {
-  console.log("raku")
   return (
     <main>
         <div className="main">
